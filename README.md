@@ -9,6 +9,6 @@ http://www.icpf.cas.cz/en/vimmp-virtual-materials-market-place
 Link to Dr. Martin Lisal:
 http://www.icpf.cas.cz/en/user/lisal
 
-Application is create in python3 language with QT5, Matplolib, Scipy, Numpy libraries. Currently the application is slowed in comparision to equivalent application in Fortran90 language without GUI. A numerical optimization with numpy/cython and object oriented implementation is need in future contributions.
+Application is created in python3 language with QT5, Matplolib, Scipy, Numpy libraries. Currently the application is slowed in comparision to equivalent application in Fortran90 language without GUI. A numerical optimization with numpy/cython and object oriented implementation is need in future contributions.
 
 Feel free to use this app or contact the author (pavelberanek91@gmail.com) ... enjoy :)
